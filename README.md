@@ -10,6 +10,6 @@ npm install
 ```
 and then:
 ```
-npm start
+node app.js
 ```
 to start an instance of the API on port 3000.
