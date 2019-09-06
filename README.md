@@ -1,5 +1,5 @@
 # Gisida API
-This is an API for Ona's Gisida visualization library. It provides user authentication and data persistance for the Gisida Editor.
+This is a Node / Express API for Ona's Gisida visualization library. It provides user authentication via (AWS Cognito) and data persistance (via AWS DynamoDB) tables for the Gisida Editor. 
 
 
 ## Develop
